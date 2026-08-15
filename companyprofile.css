@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    items-align: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+    image-align: center;
+
+}
+body{
+    font-family: Arial, sans-serif;
+    font-size: 1.5rem;
+    background-color: papayawhip;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0
+}
+.card{
+    scroll-margin-top: 9rem;
+    width: min(100%, 30rem);
+    background-color: blue;
+    border:2px solid black;
+    border-radius: 15px;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card figure{
+    display: flex;
+    flex-flow:column;
+    align-items: center;
+}
+
+.card img{
+    border: 5px double whitesmoke;
+    border-radius: 50%;
+}
+
+.card figcaption{
+    font-weight: bolder;
+    font-size: 2rem;
+    margin: 1rem;
+    text-align: center;
+}
+footer{
+    position: sticky;
+    background-color: blue;
+    color: gold;
+    text-align: center;
+    padding: 10px;
+}
+nav{
+    display: flex;
+    margin-inline: auto;
+    padding: 0.5rem;
+    border-bottom: 2px solid black;
+    margin: 0;
+    color: blue;
+    align-items: center;
+    font-weight: bolder;
+    justify-content: space-evenly;
+    background-color: dodgerblue;
+}
+nav a, nav a:visited{
+    text-decoration: none;
+    color: gold;
+    font-size: 18px;
+}
+nav a:hover, nav a:focus{
+    color: red;
+    text-decoration: underline;
+}
+h1 {
+    color: blueviolet;  
+    text-align: center; 
+}
+@media screen and ( max-height:425px)and (min-aspect-ratio:7/4){
+    body{
+        background-color: olivedrab;
+        background-image: radial-gradient( whitesmoke,dodgerblue);
+    }
+}
