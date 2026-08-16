@@ -131,6 +131,11 @@ footer img{
   padding: 10px;
 }
 
+#about img {
+    displa: flex;
+    float:left;
+}
+
 .container {
   display: flex;
   flex-direction: column;
