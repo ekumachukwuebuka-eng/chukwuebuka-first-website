@@ -124,13 +124,15 @@
                 </ul>
 
                     <form action=" https://formspree.io/f/myegvaba " method="POST">
-
+      <label for="name">Name:</label>
     <input
         type="text"
         name="name"
         placeholder="Your Name"
         required
     >
+                        <br>
+        <label for="email">email:</label>                 
 
     <input
         type="email"
@@ -139,18 +141,24 @@
         required
     >
 
+                        <br>
+         <label for="subject">subject:</label>                
+
     <input
         type="text"
         name="subject"
         placeholder="Subject"
         required
     >
+                        <br>
+         <label for="message">message:</label>                
 
     <textarea
         name="message"
         placeholder="Your Message"
         required  width=" 200px" height="200px"
     ></textarea>
+                        <br>
 
     <button  class=" submit" type="submit">Send Message</button>
 
