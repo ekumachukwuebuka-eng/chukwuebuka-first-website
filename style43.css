@@ -351,7 +351,7 @@ footer img{
   animation: moveLeft 10s linear infinite;
 }
 
-@keyframes moveleft {
+@keyframes slidein{
   from {
     transform: translateX(0);
   }
