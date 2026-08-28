@@ -336,6 +336,11 @@ footer img{
     transform: scale( 1.5);
 }
 .banner-container {
+    display:flex;
+    flex-direction:row;
+    gap:15px;
+    justify-content:center;
+    align-items:center;
   overflow: hidden;
   width: 100%;
 }
