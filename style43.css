@@ -335,6 +335,26 @@ footer img{
 .awards&honors img {
     transform: scale( 1.5);
 }
+.banner-container {
+  overflow: hidden;
+  width: 100%;
+}
+
+.moving-banner {
+  position: relative;
+  animation: slideIn 5s infinite alternate;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(300px);
+  }
+}
+
+
 
 
  
