@@ -12,6 +12,7 @@
     background-size:contain;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
      transition: 0.3s;
+    border:5px gold;
 
 }
 .navigation-menu a:hover {
@@ -62,7 +63,7 @@ h1{
     font-size: 18px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
      transition: 0.3s;
-    border:5px;
+    border:5px gold;
 
 }
 p{
