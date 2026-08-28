@@ -343,7 +343,7 @@ footer img{
     align-items:center;
   overflow: hidden;
   width: 100%;
-    animation: scroll-left 15s linear infinite;
+    animation: scroll-left 15s linear infinite !important  ;
 }
 
 .moving-banner {
