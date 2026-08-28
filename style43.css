@@ -343,23 +343,14 @@ footer img{
     align-items:center;
   overflow: hidden;
   width: 100%;
-    animation: moveLeft 10s linear infinite;
+    animation: scroll-left 15s linear infinite;
 }
 
 .moving-banner {
   position: relative;
-  animation: moveLeft 10s linear infinite;
-     animation: scroll-left 15s linear infinite;
+  animation: scroll-left 15s linear infinite;
 }
 
-@keyframes  moveleft{
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(300px);
-  }
-}
 @keyframes moveLeft {
   0% {
     transform: translateX(0);
