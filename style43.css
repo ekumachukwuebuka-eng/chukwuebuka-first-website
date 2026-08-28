@@ -352,12 +352,20 @@ footer img{
      animation: scroll-left 15s linear infinite;
 }
 
-@keyframes slidein{
+@keyframes  moveleft{
   from {
     transform: translateX(0);
   }
   to {
     transform: translateX(300px);
+  }
+}
+@keyframes moveLeft {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
   }
 }
 
