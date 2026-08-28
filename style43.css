@@ -57,7 +57,7 @@ h1{
     color: blue;
 }
 .navigation-menu a{
-    text-decoration: none;
+    text-decoration: underline;
     color: gold;
     font-size: 18px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
