@@ -341,7 +341,7 @@ footer img{
 .banner-container {
   width: 100%;
   overflow: hidden; 
-  background: #f4f4f4; 
+  background-color: black; 
   padding: 10px 0;
 }
 
@@ -351,6 +351,7 @@ footer img{
   width: max-content; 
   gap: 20px; 
   animation: slideLeft 10s linear infinite; 
+    background-color:black;
 }
 
 .moving-banner img {
