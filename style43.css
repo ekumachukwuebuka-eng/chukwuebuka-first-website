@@ -29,14 +29,7 @@ a{
     color: blue;
     font-size: 18px;
 }
-.navigation-menu ul{
-    color: blue;
-}
 
-.navigation-menu a{
-    text-decoration: none;
-    color: blue
-}
 body{
     font-family: Arial, sans-serif;
     font-size: 20px;
@@ -67,6 +60,7 @@ h1{
     text-decoration: none;
     color: gold;
     font-size: 18px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 
 }
 p{
