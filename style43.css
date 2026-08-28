@@ -348,7 +348,7 @@ footer img{
 
 .moving-banner {
   position: relative;
-  animation: scroll-left 15s linear infinite;
+  animation: scroll-left 15s linear infinite  !important  ;
 }
 
 @keyframes moveLeft {
