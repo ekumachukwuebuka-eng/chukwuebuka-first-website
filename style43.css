@@ -18,6 +18,9 @@
 .navigation-menu a:hover {
     color: purple;
 }
+#king{
+    color:gold;
+}
 
 .navigation-menu li{
     display: flex;
