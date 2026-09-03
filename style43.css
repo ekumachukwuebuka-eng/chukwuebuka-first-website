@@ -57,11 +57,11 @@ h1{
     background-color: blue;
 }
 .navigation-menu li{
-    color: blue;
+    color: white;
 }
 .navigation-menu a{
     text-decoration: underline;
-    color: gold;
+    color: white;
     font-size: 18px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
      transition: 0.3s;
