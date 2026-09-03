@@ -46,7 +46,7 @@ body{
     text-shadow: 0cqmax;
 }
 h1{
- color: gold;  
+ color: blue;  
  text-align: center; 
 }
 .navigation-menu a:hover, a:focus{
@@ -81,7 +81,7 @@ p{
     cursor: pointer;
 }
 h2{
-    color: gold;
+    color: blue;
 }
 .submit{
     transition: background-color 0.3s ease;
