@@ -37,7 +37,7 @@ a{
 body{
     font-family: Arial, sans-serif;
     font-size: 20px;
-    background-color: navyblue;
+    background-color: blue;
     background-size: cover;
     background-position: center;
     margin: 10px;
@@ -46,7 +46,7 @@ body{
     text-shadow: 0cqmax;
 }
 h1{
- color: white;  
+ color: gold;  
  text-align: center; 
 }
 .navigation-menu a:hover, a:focus{
@@ -81,7 +81,7 @@ p{
     cursor: pointer;
 }
 h2{
-    color: white;
+    color: gold;
 }
 .submit{
     transition: background-color 0.3s ease;
