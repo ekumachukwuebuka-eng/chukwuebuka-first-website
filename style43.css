@@ -3,7 +3,7 @@
     margin-inline: auto;
     padding: 0;
     margin: 0;
-    color: blue;
+    color: white;
     align-items: center;
     justify-content: space-evenly;
     font-weight: bolder;
@@ -25,7 +25,7 @@
 .navigation-menu li{
     display: flex;
     margin-right: 20px;
-    color: blue;
+    color: white;
     align-items: center;
 }
 a{
@@ -47,7 +47,7 @@ body{
     text-shadow: 0cqmax;
 }
 h1{
- color: blueviolet;  
+ color: white;  
  text-align: center; 
 }
 .navigation-menu a:hover, a:focus{
@@ -82,7 +82,7 @@ p{
     cursor: pointer;
 }
 h2{
-    color: green;
+    color: white;
 }
 .submit{
     transition: background-color 0.3s ease;
@@ -92,8 +92,7 @@ h2{
 body{
     font-family: Arial, sans-serif;
     font-size: 20px;
-    background-color: papayawhip;
-    background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmFja2dyb3VuZCUyMGltYWdlfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+    background-color: skyblue ;
     background-size: cover;
     background-position: center;
     margin: 10px;
@@ -104,8 +103,7 @@ body{
     body{
     font-family: Arial, sans-serif;
     font-size: 20px;
-    background-color: papayawhip;
-    background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmFja2dyb3VuZCUyMGltYWdlfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+    background-color: skyblue;
     background-size: cover;
     background-position: center;
     margin: 10px;
