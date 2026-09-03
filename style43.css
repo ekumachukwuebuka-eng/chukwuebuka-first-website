@@ -368,12 +368,12 @@ footer img{
     transform: translateX(-50%);
   }
 }
-.certificate-list span {
+.certificates-list span {
     background-color:blue;
     color:gold;
 }
 
-.skill-list span{
+.skills-list span{
      background-color:blue;
     color:gold;
 }
