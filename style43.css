@@ -373,10 +373,11 @@ footer img{
     color:gold;
       padding: 6px 12px;
 
-    border-radius: 20px;
+    border-radius: 27px;
 
     font-size: 13px;
     font-weight: bold;
+    gap:10px;
 }
 
 .skills-list span{
@@ -384,10 +385,11 @@ footer img{
     color:gold;
      padding: 6px 12px;
 
-    border-radius: 20px;
+    border-radius: 27px;
 
     font-size: 13px;
     font-weight: bold;
+    gap:10px;
     
 }
 
