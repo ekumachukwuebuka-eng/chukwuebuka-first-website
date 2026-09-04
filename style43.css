@@ -369,7 +369,6 @@ footer img{
   }
 }
 .certificates-list span {
-    display:flex;
     background-color:blue;
     color:gold;
       padding: 6px 12px;
@@ -381,8 +380,7 @@ footer img{
     gap:20px;
 }
 
-.skills-list span{
-    display:flex;
+.skills-list {
     
      background-color:blue;
     color:gold;
