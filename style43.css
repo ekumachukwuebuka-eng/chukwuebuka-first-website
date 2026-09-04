@@ -369,7 +369,9 @@ footer img{
   }
 }
 .certificates-list span {
+    display:grid;
     background-color:blue;
+     grid-template-columns: 1fr;
     color:gold;
       padding: 6px 12px;
 
@@ -377,10 +379,13 @@ footer img{
 
     font-size: 13px;
     font-weight: bold;
-    gap:10px;
+    gap:20px;
 }
 
 .skills-list span{
+    display:grid;
+     grid-template-columns: 1fr;
+    
      background-color:blue;
     color:gold;
      padding: 6px 12px;
@@ -389,7 +394,7 @@ footer img{
 
     font-size: 13px;
     font-weight: bold;
-    gap:10px;
+    gap:20px;
     
 }
 
