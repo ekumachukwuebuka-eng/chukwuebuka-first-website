@@ -138,6 +138,7 @@ footer img{
 #about img {
     displa: flex;
     float:left;
+   border-radius: 50% ;
 }
 
 .container {
@@ -329,7 +330,7 @@ footer img{
     float:left;
     width:250px;
     height:250px;
-    border-radius:50% gold;
+    border-radius:50% ;
 
 
 
@@ -338,6 +339,7 @@ footer img{
 }
 .awards&honors img {
     transform: scale( 1.5);
+      border-radius: 50% ;
 }
 
 .banner-container {
@@ -390,10 +392,11 @@ footer img{
 .skills-list span {
       display:flex;
     flex-direction:row;
-    text-align: center !important;
      background-color:blue !important;
     color:gold;
      padding: 6px 12px  !important;
+    text-align: center !important;
+    
      border-radius: 27px;
       font-size: 13px;
     font-weight: bold;
