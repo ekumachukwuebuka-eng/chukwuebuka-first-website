@@ -77,7 +77,7 @@ p{
     color: gold;
     padding: 10px 20px;
     border: none;
-    border-radius: 5px;
+    border-radius: 20px;
     cursor: pointer;
 }
 h2{
@@ -378,6 +378,7 @@ footer img{
     font-size: 13px;
     font-weight: bold;
     gap:20px;
+     justify-content:space evenly;
 }
 
 
@@ -389,7 +390,7 @@ footer img{
       font-size: 13px;
     font-weight: bold;
     gap:20px;
-    
+    justify-content:space evenly;
 }
 
 
