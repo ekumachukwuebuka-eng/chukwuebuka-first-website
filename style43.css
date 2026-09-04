@@ -398,12 +398,12 @@ footer img{
 
 .skills-list ul{
     gap:20px;
-     justify-content:space-evenly;
+     justify-content:space-evenly !important;
 }
 
 .certificates-list ul{
     gap:20px;
-     justify-content:space-evenly;
+     justify-content:space-evenly !important;
 }
 
 
