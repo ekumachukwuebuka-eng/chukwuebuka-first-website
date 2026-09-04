@@ -393,7 +393,7 @@ footer img{
 
 
 
-#Skills{
+#Skills li{
       
     gap:20px;
   text-align:center; 
@@ -411,7 +411,7 @@ footer img{
       font-size: 13px;
     font-weight: bold;
     gap:20px;
-     justify-content: space-between;
+     
 }
 
 
