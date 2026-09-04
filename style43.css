@@ -390,7 +390,7 @@ footer img{
 .skills-list span {
       display:flex;
     flex-direction:row;
-    text-align: center;
+    text-align: center !important;
      background-color:blue !important;
     color:gold;
      padding: 6px 12px  !important;
@@ -402,19 +402,7 @@ footer img{
 }
 
 
-.skills-list ul{
-    display:flex;
-    flex-direction:row;
-    gap:20px;
-     justify-content: space-between  !important;
-}
 
-.certificates-list ul{
-    display:flex;
-    flex-direction:row;
-    gap:20px;
-     justify-content: space-between    !important;
-}
 
 
 
