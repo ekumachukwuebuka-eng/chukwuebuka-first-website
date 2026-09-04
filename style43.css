@@ -371,7 +371,6 @@ footer img{
 .certificates-list span {
     display:grid;
     background-color:blue;
-      grid-template-columns: repeat(2, 1fr);
     color:gold;
       padding: 6px 12px;
 
@@ -384,7 +383,6 @@ footer img{
 
 .skills-list span{
     display:grid;
-      grid-template-columns: repeat(2, 1fr);
     
      background-color:blue;
     color:gold;
