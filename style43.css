@@ -115,6 +115,8 @@ footer{
     color: gold;
     text-align: center;
     padding: 10px;
+     border-radius: 27px;
+    
 }
 footer img{
     width: 20px;
@@ -378,7 +380,7 @@ footer img{
     font-size: 13px;
     font-weight: bold;
     gap:20px;
-     justify-content:space evenly;
+     justify-content:space-evenly;
 }
 
 
@@ -390,16 +392,18 @@ footer img{
       font-size: 13px;
     font-weight: bold;
     gap:20px;
-    justify-content:space evenly;
+    justify-content:space-evenly;
 }
 
 
-.skills-list li {
+.skills-list ul{
     gap:20px;
+     justify-content:space-evenly;
 }
 
-.certificates-list li{
+.certificates-list ul{
     gap:20px;
+     justify-content:space-evenly;
 }
 
 
