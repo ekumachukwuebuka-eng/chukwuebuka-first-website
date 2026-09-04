@@ -391,20 +391,7 @@ footer img{
 }
 
 
-.skills-list span {
-      display:flex;
-    flex-direction:row;
-     background-color:blue !important;
-    color:gold;
-     padding: 6px 12px  !important;
-    text-align:center;
-    
-     border-radius: 27px;
-      font-size: 13px;
-    font-weight: bold;
-    gap:20px;
-     justify-content: space-between;
-}
+
 
 #Skills{
       
