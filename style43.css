@@ -401,7 +401,7 @@ footer img{
 }
 
 .skills-list span {
-    text-align:center;
+    text-align:center !important ;
      display:flex;
     flex-direction:center;
      background-color:blue !important;
