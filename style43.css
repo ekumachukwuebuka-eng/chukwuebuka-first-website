@@ -403,7 +403,7 @@ footer img{
 .skills-list span {
     text-align:center;
      display:flex;
-    flex-direction:row;
+    flex-direction:center;
      background-color:blue !important;
     color:gold;
      padding: 6px 12px  !important;
