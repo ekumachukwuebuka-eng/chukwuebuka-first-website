@@ -333,7 +333,7 @@ footer img{
     border-radius:50% ;
 
 #honors&awards img{
-     border-radius:50% ;
+     border-radius: 50%; 
 }
 
 
@@ -342,6 +342,10 @@ footer img{
 .awards&honors img {
     transform: scale( 1.5);
       border-radius: 50% ;
+}
+.awards&honors{
+
+    color:papayawhip;
 }
 
 .banner-container {
