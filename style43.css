@@ -426,11 +426,10 @@ footer img{
     color:blue;
 }
 
-.image-row  {
+.skills-list img  {
     width:250px;
     height:250px;
-     display: grid;  
-     grid-template-columns: 1fr 1fr;
+     
   gap: 15px;         
   justify-content: center;
 }
