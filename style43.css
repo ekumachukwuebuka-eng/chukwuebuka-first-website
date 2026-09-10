@@ -443,12 +443,12 @@ footer img{
 .flag-container img {
   animation: wave 2.5s ease-in-out infinite;
   transform-origin: left center;
-    justify-content: flex-start;
-    gap:40px;
+    justify-content: space-between;
+    gap:100px;
       width:75px;
     height:75px;
-     gap: 50%; 
-     flex-direction:left;
+     
+     flex-direction:center;
 }
 
 .flag-row{
