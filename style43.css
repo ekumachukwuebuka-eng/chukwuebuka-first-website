@@ -430,9 +430,8 @@ footer img{
     width:250px;
     height:250px;
      display:flex;
-    flex-direction:row;
-      padding: 6px 12px;
-    text-align: center;
+    flex-direction:column;
+    item-align: center;
     gap:20px;
      justify-content:space-evenly;
 }
