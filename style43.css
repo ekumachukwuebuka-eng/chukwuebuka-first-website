@@ -448,6 +448,16 @@ footer img{
     gap:40px;
 }
 
+.flag-row{
+  display: flex;
+  justify-content: flex-start;
+    flex-direction:left;
+  gap: 35px;             
+  padding: 15px 0;       
+  background-color: transparent; 
+}
+
+
 
  
 
