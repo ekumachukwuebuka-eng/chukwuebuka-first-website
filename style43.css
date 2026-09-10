@@ -430,6 +430,7 @@ footer img{
      display:flex;
     width:250px;
     height:250px;
+ flex-direction:row;
 }
 
 
