@@ -426,6 +426,12 @@ footer img{
     color:blue;
 }
 
+.skills-list img {
+     display:flex;
+    width:250px;
+    height:250px;
+}
+
 
 
 
