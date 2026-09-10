@@ -441,22 +441,21 @@ footer img{
 }
 
 .flag-container img {
-  width: 120px;
   animation: wave 2.5s ease-in-out infinite;
   transform-origin: left center;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     gap:40px;
+      width:75px;
+    height:75px;
+     gap: 50%; 
+     flex-direction:left;
 }
 
 .flag-row{
-  display: flex;
-  justify-content: flex-start;
-    flex-direction:left;
-  gap: 50%;             
+  display: flex;            
   padding: 15px 0;       
   background-color: transparent; 
-    width:75px;
-    height:75px;
+  
 }
 
 
