@@ -426,7 +426,7 @@ footer img{
     color:blue;
 }
 
-.image-row img {
+.image-row  {
     width:250px;
     height:250px;
      display: grid;  
