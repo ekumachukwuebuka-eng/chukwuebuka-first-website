@@ -427,13 +427,17 @@ footer img{
 }
 
 .skills-list img {
-     display:flex;
     width:250px;
     height:250px;
- flex-direction:column;
-    item-allign:center;
-      justify-content:space-evenly;
+     display:flex;
+    flex-direction:row;
+      padding: 6px 12px;
+    text-align: center;
+    gap:20px;
+     justify-content:space-evenly;
 }
+
+ 
 
 
 
