@@ -444,6 +444,8 @@ footer img{
   width: 120px;
   animation: wave 2.5s ease-in-out infinite;
   transform-origin: left center;
+    justify-content: space-evenly;
+    gap:40px;
 }
 
 
