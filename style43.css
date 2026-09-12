@@ -37,13 +37,13 @@ a{
 body{
     font-family: Arial, sans-serif;
     font-size: 20px;
-    background-color:off-white  !important ;
+    background-color: #f5f5f5 !important;
     background-size: cover;
     background-position: center;
     margin: 10px;
     padding: 10px;
     text-align: center;
-    text-shadow: 0cqmax;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 h1{
  color: blue !important;  
@@ -91,7 +91,7 @@ h2{
 body{
     font-family: Arial, sans-serif;
     font-size: 20px;
-    background-color: navyblue ;
+    background-color: navy;
     background-size: cover;
     background-position: center;
     margin: 10px;
@@ -128,7 +128,7 @@ footer img{
     display: flex;
     width: 50%;
     height: auto;
-    border-radius: 50% ;
+    border-radius: 50%;
   float: left;
   margin-left: 10px;  
   margin-bottom: 10px;
@@ -136,9 +136,9 @@ footer img{
 }
 
 #about img {
-    displa: flex;
+    display: flex;
     float:left;
-   border-radius: 50% ;
+   border-radius: 50%;
 }
 
 .container {
@@ -322,15 +322,12 @@ footer img{
 
 
 
-
-
-
 #about img{
     display:flex;
     float:left;
     width:250px;
     height:250px;
-    border-radius:50% ;
+    border-radius:50%;
 
      border-radius: 50%; 
 }
@@ -338,9 +335,9 @@ footer img{
 
     
 
-.awards&honors img {
-    transform: scale( 1.5);
-      border-radius: 50% ;
+.awards-honors img {
+    transform: scale(1.5);
+      border-radius: 50%;
 }
 
 
@@ -422,7 +419,7 @@ footer img{
 
    } 
 
-.awards & honors,   strong{
+.awards-honors, strong{
     color:blue;
 }
 
@@ -439,14 +436,3 @@ footer img{
   0%, 100% { transform: rotate(0deg) skewX(0deg); }
   50% { transform: rotate(2deg) skewX(-5deg); }
 }
-
-
-
-
-
- 
-
-
-
-
-    
