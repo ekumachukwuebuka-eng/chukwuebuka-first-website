@@ -1,4 +1,4 @@
-/* Navigation Menu Styles */
+
 .navigation-menu {
     display: flex;
     margin-inline: auto;
@@ -47,7 +47,6 @@
     transform: scale(1.1);
 }
 
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
     font-size: 20px;
@@ -79,7 +78,6 @@ a {
     font-size: 18px;
 }
 
-/* Button Styles */
 .submit {
     background-color: blue;
     color: gold;
@@ -95,7 +93,6 @@ a {
     color: white;
 }
 
-/* Home Section */
 .container {
     display: flex;
     flex-direction: column;
@@ -134,7 +131,6 @@ a {
     text-decoration: none;
 }
 
-/* About Section */
 #about {
     padding: 40px 20px;
     text-align: center;
@@ -149,7 +145,7 @@ a {
     margin-bottom: 10px;
 }
 
-/* Skills Section */
+
 #Skills {
     padding: 40px 20px;
 }
@@ -183,7 +179,6 @@ a {
     display: inline-block;
 }
 
-/* Projects Section */
 #projects {
     padding: 70px 20px;
     text-align: center;
@@ -281,7 +276,6 @@ a {
     transform: translateX(5px);
 }
 
-/* Certificates Section */
 #certificates {
     padding: 40px 20px;
 }
@@ -321,7 +315,7 @@ a {
     background-color: darkblue;
 }
 
-/* Honors & Awards Section */
+
 .honors-awards {
     padding: 40px 20px;
 }
@@ -337,7 +331,6 @@ a {
     font-weight: bold;
 }
 
-/* Resume Section */
 #Resume {
     padding: 40px 20px;
 }
@@ -358,7 +351,6 @@ a {
     transform: scale(1.05);
 }
 
-/* Contact Section */
 #contact {
     padding: 40px 20px;
 }
@@ -405,7 +397,7 @@ a {
     background-color: darkblue;
 }
 
-/* Footer */
+
 footer {
     position: sticky;
     bottom: 0;
@@ -427,7 +419,7 @@ footer a:hover img {
     transition: 0.3s;
 }
 
-/* Banner Section */
+
 .banner-container {
     width: 100%;
     overflow: hidden;
@@ -471,7 +463,6 @@ footer a:hover img {
     }
 }
 
-/* Flags Animation */
 .flags-container {
     display: flex;
     justify-content: center;
@@ -514,7 +505,6 @@ footer a:hover img {
     }
 }
 
-/* Responsive Design */
 @media screen and (max-width: 1200px) {
     .projects-grid {
         grid-template-columns: repeat(2, 1fr);
