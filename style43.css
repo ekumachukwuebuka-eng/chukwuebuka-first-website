@@ -279,6 +279,9 @@ a {
 #certificates {
     padding: 40px 20px;
 }
+#certificates a {
+    color:gold;
+}
 
 .certificates-list {
     list-style: none;
